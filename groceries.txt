@@ -7,3 +7,4 @@ mushrooms
 even more pasta
 nutella 
 butter
+eggs
